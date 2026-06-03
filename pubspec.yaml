@@ -31,6 +31,8 @@ dependencies:
   path_provider_linux: ^2.1.0
   path_provider_foundation: ^2.1.0
   sqflite_common_ffi: ^2.3.0
+  sqflite_common_ffi_web: ^0.4.0
+  ffi: ^2.1.0
 
 dev_dependencies:
   flutter_test:
